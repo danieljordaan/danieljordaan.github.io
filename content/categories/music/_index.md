@@ -1,7 +1,7 @@
 ---
-title: Example Category
+title: Music
 description: A description of this category
-image:
+image: "music.svg"
 
 # Badge style
 style:
