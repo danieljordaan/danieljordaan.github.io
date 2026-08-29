@@ -8,6 +8,11 @@ menu:
         params: 
             icon: mail-heart
 readingTime: false
+links:
+  - title: Linktree
+    description: You can find all my socials here.
+    website: https://linktr.ee/danieljordaan
+    image: "brand-linktree.svg"
 ---
 
 ## Contact Me
@@ -16,4 +21,4 @@ If you simply want to keep up to date on my projects then you might be intereste
 
 Feel free to reach out. I'd love to hear from you. 
 
-The best way to contact me is by [email]().
+> The best way to contact me is by [email]().
